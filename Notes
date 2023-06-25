@@ -1,0 +1,18 @@
+top-level class : not enclosed in code block of another class (public or none)
+Access Modifiers :
+    public - any class in any package
+    private - no other class
+    protected - same package class, subclasses in other packages
+    default -classes in same package
+
+Encapsulation: bundling of behaviour/attributes on a single object
+               hiding fields from public access
+
+Class properties needs to have an access modifier
+null - attribute has a type but no refernce to an object
+getter - method/class that retrieves the value of a private field and returns it.
+setter - method/class that sets the value of a private field.
+
+this - refers to the instance that was created when the object was instantiated.
+
+
